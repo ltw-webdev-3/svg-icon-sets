@@ -33,7 +33,7 @@ download: 'https://assets.learntheweb.courses/web-dev-3/svg-icon-sets-download.z
 Visually match the images in the “screenshots” folder and create the interaction shown in the linked video.
 
 - Final screenshots in the “screenshots” folder.
-- [**Watch this video to see how it interacts.**](https://youtu.be/gIQtPYJ2d3s)
+- [**Watch this video to see how it interacts.**](https://videos.learntheweb.courses/playlists/web-dev-3/svg-icon-sets.mp4)
 
 ---
 
